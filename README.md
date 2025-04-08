@@ -26,9 +26,6 @@ npm install
 npm run dev
 
 
-
----
-
 ### 📌 Step 4: Save and Push
 
 Now push your changes to GitHub:
