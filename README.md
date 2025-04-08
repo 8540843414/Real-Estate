@@ -25,17 +25,7 @@ This is a modern and responsive Real Estate website built using React.js and Vit
 
 ## 📦 How to Run
 
-````bash
+```bash
 npm install
 npm run dev
-
-
-### 📌 Step 4: Save and Push
-
-Now push your changes to GitHub:
-
-```bash
-git add README.md
-git commit -m "Updated README with project details"
-git push
-````
+```
