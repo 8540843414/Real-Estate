@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshot.png.png" alt="Website Screenshot" width="100%" />
+</p>
+
 # 🏡 Real Estate Website
 
 This is a modern and responsive Real Estate website built using React.js and Vite.
