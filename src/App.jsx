@@ -11,6 +11,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
   return (
+   
     <div className="w-full overflow-hidden">
     <ToastContainer position="top-right"
   autoClose={3000}
@@ -29,6 +30,7 @@ const App = () => {
       <Contact />
       <Footer />
     </div>
+   
   );
 };
 
